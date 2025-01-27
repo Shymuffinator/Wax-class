@@ -12,5 +12,4 @@ layout: qatar_item
 collection: Cartas de A
 thumbnail: "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg"
 full: "img/logo.png"
-manifest: "img/logo.png"
 ---
