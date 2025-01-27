@@ -17,7 +17,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'Archivo Santaliz'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://shymuffinator.github.io'
 baseurl:          '/Wax-class/'
