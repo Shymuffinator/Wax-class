@@ -10,6 +10,6 @@ source: https://hellokitty.fandom.com/wiki/My_Melody
 order: '00'
 layout: qatar_item
 collection: Characters
-thumbnail: "https://static.wikia.nocookie.net/hellokitty/images/3/33/Sanrio_Characters_My_Melody_Image029.png/revision/latest?cb=20170407005355"
-full: "https://static.wikia.nocookie.net/hellokitty/images/3/33/Sanrio_Characters_My_Melody_Image029.png/revision/latest?cb=20170407005355"
+thumbnail: "Sanrio_Characters_My_Melody_Image029.png"
+full: "Sanrio_Characters_My_Melody_Image029.png"
 ---
