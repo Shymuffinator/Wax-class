@@ -1,8 +1,8 @@
 ---
 pid: obj1
 artist: Yasuko Matsumoto
-location: Japan
-label: Personaje favorito de Sanrio: My Melody
+location: Japon
+label: Personaje favorito de Sanrio - My Melody
 _date: '1975'
 object_type: Personaje
 current_location: Mariland Forest
