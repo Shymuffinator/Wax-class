@@ -10,6 +10,6 @@ source: Sanrio
 order: '00'
 layout: qatar_item
 collection: Characters
-thumbnail: "img/logo.png"
-full: "img/logo.png"
+thumbnail: "img/Sanrio_Characters_My_Melody_Image029.png"
+full: "img/Sanrio_Characters_My_Melody_Image029.png"
 ---
