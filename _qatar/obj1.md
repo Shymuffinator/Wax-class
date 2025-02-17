@@ -6,7 +6,7 @@ label: Personaje favorito de Sanrio: My Melody
 _date: '1975'
 object_type: Personaje
 current_location: Mariland Forest
-source: https://hellokitty.fandom.com/wiki/My_Melody
+source: Sanrio
 order: '00'
 layout: qatar_item
 collection: Characters
