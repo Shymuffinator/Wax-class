@@ -10,6 +10,6 @@ source: https://hellokitty.fandom.com/wiki/My_Melody
 order: '00'
 layout: qatar_item
 collection: Characters
-thumbnail: "logo.png"
-full: "logo.png"
+thumbnail: "img/logo.png"
+full: "img/logo.png"
 ---
