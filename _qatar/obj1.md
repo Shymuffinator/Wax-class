@@ -1,15 +1,15 @@
 ---
 pid: obj1
-artist: Al-Hajj Hafiz Muhammad Nuri
-location: Turkey
-label: Carta del 22 de enero de 1995
-_date: '1801'
-object_type: Carta
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Al-Hajj_Hafiz_Muhammad_Nuri,_Turkey,_1801_-_The_Dala%27il_al-Khayrat_of_al-Juzuli_-_Google_Art_Project.jpg
+artist: Yasuko Matsumoto
+location: Japan
+label: Personaje favorito de Sanrio: My Melody
+_date: '1975'
+object_type: Personaje
+current_location: Mariland Forest
+source: https://hellokitty.fandom.com/wiki/My_Melody
 order: '00'
 layout: qatar_item
-collection: Cartas de A
-thumbnail: "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg"
-full: "img/logo.png"
+collection: Characters
+thumbnail: "https://static.wikia.nocookie.net/hellokitty/images/3/33/Sanrio_Characters_My_Melody_Image029.png/revision/latest?cb=20170407005355"
+full: "https://static.wikia.nocookie.net/hellokitty/images/3/33/Sanrio_Characters_My_Melody_Image029.png/revision/latest?cb=20170407005355"
 ---
