@@ -9,9 +9,9 @@ banner:
   height: '500px'
 ---
 
-__Archivo Santaliz__ es una colaboracion entre Caribe Digital y la artista Kairiana Nunez Santaliz, que tiene como mision conservar el legado de Pedro Santaliz.
+Esta pagina sirve como practica para le estudiante Nath P. Rivera Goveo. Aqui se encontraran cosas basicas como su color favorito para practicar con la plataforma de Wax.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+Su color favorito y personaje favorito de Sanrio estaran en diferentes paginas de esta pagina modificada.
 
 ### Browse the Collection
 
